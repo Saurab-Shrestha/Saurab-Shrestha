@@ -3,7 +3,7 @@
 <div style="text-align:justify">
   I'm a Computer Science Student. Currently in my final year of the program.
   <br>
-  I'm currently learning Machine learning and Deep learning in python. 
+
  
  </div>
  
