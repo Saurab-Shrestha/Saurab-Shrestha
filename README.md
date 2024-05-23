@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Saurab-Shrestha
 
 <div style="text-align:justify">
-  I'm a Computer Science Student. Currently in my final year of the program.
+  I'm a Software Developer.
   <br>
 
  
